@@ -1,0 +1,56 @@
+{
+    "user": {
+      "username": "",
+      "profilepic": "",
+      "email": "",
+      "phoneno": "",
+      "address": "",
+      "routes": [
+        {
+          "from": "",
+          "to": "",
+          "plan": ""
+        }
+      ],
+      "credit": "",
+      "payment": "",
+      "rideHistory": [
+        {
+          "rideid": "",
+          "from": {"text":"autocomplete", "lat":123,"long":123},
+          "to":{"text":"autocomplete", "lat":123,"long":123},
+          "otp": ""
+        }
+      ]
+    },
+    "driver": {
+      "username": "",
+      "email": "",
+      "profilepic": "",
+      "phoneno": "",
+      "address": "",
+      "drivinglcNo": "",
+      "vehicleNo": "",
+      "routes": [
+        {
+          "from": "",
+          "to": "",
+          "plan": ""
+        }
+      ],
+      "rating": "",
+      "credit": "",
+      "payment": "",
+      "rideHistory": [
+        {
+          "rideid": "",
+          "from": "",
+          "to": "",
+          "otp": ""
+        }
+      ]
+    }
+  }
+
+{/* driver routes form will have origin destination time seats plan {users in this(initial 0)} 
+*/}
